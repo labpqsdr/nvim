@@ -29,7 +29,8 @@ return {
   { import = "astrocommunity.color.nvim-highlight-colors" }, -- opt-in to nvim-java for LSP
 
   { import = "astrocommunity.completion.cmp-cmdline" }, -- opt-in to nvim-java for LSP
-  { import = "astrocommunity.completion.tabnine-nvim" }, -- opt-in to nvim-java for LSP
+  -- { import = "astrocommunity.completion.tabnine-nvim" }, -- opt-in to nvim-java for LSP
   { import = "astrocommunity.color.nvim-highlight-colors" }, -- opt-in to nvim-java for LSP
   { import = "astrocommunity.scrolling.neoscroll-nvim" },
+  { import = "astrocommunity.recipes.heirline-mode-text-statusline" },
 }

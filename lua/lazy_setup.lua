@@ -11,9 +11,9 @@ require("lazy").setup({
       update_notifications = false, -- Enable/disable notification about running `:Lazy update` twice to update pinned plugins
     },
   },
-  -- {
-  -- "DaikyXendo/nvim-material-icon",
-  -- },
+  {
+    "DaikyXendo/nvim-material-icon",
+  },
   { import = "community" },
   { import = "plugins" },
 } --[[@as LazySpec]], {
